@@ -2,4 +2,4 @@
 
 User-agent: *
 
-just making some change in a file
+just making some change in a file. This file has to be committed
